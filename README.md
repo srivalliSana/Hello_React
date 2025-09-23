@@ -1,12 +1,15 @@
-# React + Vite
+Objective: Initialize a new React project and display a simple message.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description: Use create-react-app or Vite to create a React project and display "Hello React!" on the browser.
 
-Currently, two official plugins are available:
+Learning Outcome: Learn how to set up a React project and render JSX elements.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pseudo-Code:
 
-## Expanding the ESLint configuration
+  1)Initialize React project.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  2)Open App.js.
+
+  3)Render a simple "Hello React!" message on the screen
+
+  <img width="509" height="291" alt="Screenshot 2025-09-17 194951" src="https://github.com/user-attachments/assets/12938103-8b8e-4d88-a17d-bc945b3ce8c6" />
